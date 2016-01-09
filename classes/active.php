@@ -4,7 +4,7 @@
  * @file active.php
  * @brief 促销活动处理类
  * @author nswe
- * @date 2015/5/18 9:08:53
+ * @date 2015/12/18
  * @version 3.2
  */
 class Active
